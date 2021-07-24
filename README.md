@@ -2,6 +2,7 @@
 #### Thinkful Unsupervised Learning Capstone Project
 #### Mike McIntire (m.mcintire00@gmail.com)
 
+## UPDATE IN PROGRESS (7/24/21): Converting categorical variables to dummies
 
 # Introduction
 
